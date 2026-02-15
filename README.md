@@ -1,49 +1,99 @@
 # Daniel Ortega Bello
 
-![img](githubThedaob.png)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thedaob/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:danielortegabello@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=Google-Chrome&logoColor=white)](https://thedaob.github.io/danielortegabello.io/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/thedaob)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthedaob%2Fthedaob&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/thedaob)](https://twitter.com/thedaob)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thedaob/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/thedaob/)](https://www.instagram.com/thedaob)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:danielortegabello@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://thedaob.github.io/danielortegabello.io/)](https://thedaob.github.io/danielortegabello.io/)
-[![Github](https://img.shields.io/github/followers/thedaob?label=Follow&style=social)](https://github.com/thedaob)
+## 👋 About Me
 
-💻 Passionate about web development: Technologies like JavaScript and frameworks (React, Angular).
+Software Engineer specializing in **Robotic Process Automation (RPA)**, **Cloud Solutions**, and **Full-Stack Development**. I build scalable automation solutions and modern web applications that drive operational efficiency and business value.
 
+**Core Focus Areas:**
+- 🤖 **RPA & Intelligent Automation** — UiPath, Automation Anywhere, Blue Prism
+- ☁️ **Cloud & DevOps** — Docker, CI/CD pipelines, infrastructure automation
+- 💻 **Full-Stack Engineering** — React, Angular, Node.js, Python
+- 🔐 **Secure Software Development** — Security-first approach to application design
 
-🤖 Developer in RPA and Automation: UiPath, Automation Anywhere, Blue Prism.
+---
 
+## 🛠️ Technical Expertise
 
-🎮 Video game enthusiast: Developing one is a project I wish to undertake.
+### **Automation & RPA**
+- Enterprise process automation with UiPath, Automation Anywhere, Blue Prism
+- Workflow orchestration and bot deployment
+- Business process optimization and digital transformation
 
+### **Frontend Development**
+- Modern JavaScript frameworks: **React**, **Angular**, **Vue.js**
+- Responsive UI/UX with HTML5, CSS3, and component libraries
+- State management and performance optimization
 
-🗃️ Databases: SQL (MySQL, PostgreSQL), NoSQL (MongoDB, Oracle).
+### **Backend & Databases**
+- **Backend:** Node.js, PHP, Python
+- **SQL:** MySQL, PostgreSQL
+- **NoSQL:** MongoDB, Oracle
+- RESTful API design and microservices architecture
 
+### **DevOps & Tools**
+- Containerization with **Docker**
+- Version control: **Git**, **GitHub**
+- Data processing: **Pandas**, Python scripting
+- IDEs: Visual Studio Code, JetBrains suite
 
-🤝 Effective Collaborator: Experience working in multidisciplinary teams and project management with Git and GitHub.
+---
 
-💡 Creative Innovator: Ability to devise original and effective solutions in software development.
+## 💼 Tech Stack
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=Angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=Unity&logoColor=white)
 
-🔐 Security-Focused: Committed to implementing security practices in software development.
+---
 
+## 🎯 What I Bring
 
+- **Automation-First Mindset:** Proven experience designing and deploying RPA solutions that reduce manual workload and increase accuracy
+- **Cross-Functional Collaboration:** Strong communicator who bridges technical and business stakeholders
+- **Scalable Architecture:** Focus on building maintainable, testable, and production-ready systems
+- **Continuous Learning:** Staying current with emerging technologies in cloud, automation, and software engineering
 
+---
 
-### 🖥 Skills
+## 🌱 Current Interests
 
-- HTML/CSS
-- JavaScript
-- Frameworks y Librerías de JavaScript (React, Angular, Vue.js)
-- Gestión de Bases de Datos (SQL, NoSQL)
-- Control de Versiones (Git, GitHub)
-- Desarrollo Backend (Node.js, PHP)
-### ⚙️ Tech Stack
+- Exploring game development with Unity
+- Advanced cloud architecture patterns
+- AI/ML integration with automation workflows
+- Building developer tools and productivity applications
 
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&color=353535) ![Bootstrap](https://img.shields.io/badge/-html5-05122A?style=flat&logo=html5&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-php-05122A?style=flat&logo=php&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-GIT-05122A?style=flat&logo=GIT&color=353535) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=Visual-Studio-Code&color=353535) ![Bootstrap](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity&color=353535)
+---
 
+## 📫 Let's Connect
 
+I'm open to opportunities in **Software Engineering**, **RPA Development**, **DevOps**, and **Cloud Solutions**. Feel free to reach out!
 
+📧 **Email:** danielortegabello@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/thedaob](https://www.linkedin.com/in/thedaob/)  
+🌐 **Portfolio:** [thedaob.github.io/danielortegabello.io](https://thedaob.github.io/danielortegabello.io/)
 
+---
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=thedaob&color=blueviolet&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/thedaob?label=Followers&style=social)](https://github.com/thedaob)
+
+</div>
